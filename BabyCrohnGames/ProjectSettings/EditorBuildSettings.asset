@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/DEB.unity
+    guid: 236a29aaab0c3084289ea53f4a46d4cf
+  - enabled: 1
+    path: Assets/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Settings.unity
+    guid: d15625a167f526d4a8e20e1ab91f63b4
+  - enabled: 1
+    path: Assets/HelpScene.unity
+    guid: 3a2a1f90c4ebcd241ad55782f934f2ca
+  - enabled: 1
+    path: Assets/NV.unity
+    guid: 8fbd9ebf169be5649ab5d636be1983e7
+  - enabled: 1
+    path: Assets/DiagnosisScene.unity
+    guid: 12dfb75f28895c84190c8201c70ac968
+  - enabled: 1
+    path: Assets/BabySickScene.unity
+    guid: e4cec31c4f790f14ea08b8c9b5575c15
+  - enabled: 0
+    path: Assets/LEV1.unity
+    guid: 5ec9b12f937e7d04693454eb61cdc7cc
+  - enabled: 1
+    path: Assets/LEV02PLAY.unity
+    guid: 85ada5caeea77df4cbc85a4a3e579ebb
+  - enabled: 1
+    path: Assets/LEV3.1PLAY.unity
+    guid: 992c2dc028d11fa4ca7f1a9d4e6fbaf2
+  - enabled: 1
+    path: Assets/checklistManager.unity
+    guid: 59dedcfca69ff974b9306bf0a8e0eca4
+  - enabled: 1
+    path: Assets/TemperatureScene.unity
+    guid: 6b288bce915b5904db75b4b205d62266
+  - enabled: 1
+    path: Assets/BloodPressureScene.unity
+    guid: 388d4c4bd1d57214695d7ff38587d8c3
+  - enabled: 1
+    path: Assets/BloodTestScene.unity
+    guid: 74be9be6416ea4249953763554a9b0d4
+  - enabled: 1
+    path: Assets/XRayRoom2D.unity
+    guid: 1b4b3c09f0f81a04ba780455e012ed02
+  - enabled: 1
+    path: Assets/GutScanScene.unity
+    guid: 1d106b9c3d88a114e95a493b30a261fa
+  - enabled: 1
+    path: Assets/EatingScene.unity
+    guid: 85f3e8757046db34d9bbe39bcb662090
+  - enabled: 1
+    path: Assets/UserSoupScene.unity
+    guid: dfce458d29df00b48b430c8bc02e5ac8
+  - enabled: 1
+    path: Assets/HandWashScene.unity
+    guid: 6be50d0ff3a294141b9de3b6e4a1a7de
+  m_configObjects: {}
